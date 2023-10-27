@@ -1,2 +1,1 @@
-# novorepositorio1
-amo ana vithorya 
+# novorepositorio1 
